@@ -31,10 +31,10 @@ require (
 	github.com/wailsapp/mimetype v1.4.1
 	github.com/wzshiming/ctc v1.2.3
 	github.com/ztrue/tracerr v0.3.0
-	golang.org/x/mod v0.4.1
-	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f
-	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
-	golang.org/x/tools v0.1.0
+	golang.org/x/mod v0.8.0
+	golang.org/x/net v0.6.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/tools v0.6.0
 )
 
 require (
@@ -66,9 +66,8 @@ require (
 	github.com/valyala/fasttemplate v1.2.1 // indirect
 	github.com/wzshiming/winseq v0.0.0-20200112104235-db357dc107ae // indirect
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
-	golang.org/x/image v0.0.0-20201208152932-35266b937fa6 // indirect
-	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
+	golang.org/x/image v0.10.0 // indirect
+	golang.org/x/text v0.11.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
